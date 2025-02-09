@@ -47,7 +47,7 @@ function CreditCard({ color }) {
               {cardNumber}
             </div>
             <div className="flex justify-between text-white text-sm sm:text-md">
-              <span>Jammel Brona</span>
+              <span>Jammel M. Broña</span>
               <span>{expiryDate}</span>
             </div>
           </div>
